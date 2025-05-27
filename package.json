@@ -1,0 +1,23 @@
+{
+  "name": "guidepost",
+  "version": "1.0.0",
+  "description": "Trying to implement my resource management tool entirely in html, css, and javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayreif/guidepost.git"
+  },
+  "keywords": [
+    "resource",
+    "management"
+  ],
+  "author": "Jeff Reifsnyder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayreif/guidepost/issues"
+  },
+  "homepage": "https://github.com/jayreif/guidepost#readme"
+}
